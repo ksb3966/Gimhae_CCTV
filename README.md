@@ -1,4 +1,5 @@
-# Gimhae_CCTV
-Gimhae_CCTV_Location_Mapping
-
+# Gimhae_CCTV_Location_Mapping
 # 시민 안전을 위한 CCTV 사각지대 해소 방안
+
+## Overview
+김해시는 경상남도 내 강력범죄 비율이 가장 높은 도시이다. 인구 1만명당 5대 강력 범죄 발생 건수는 105.3건으로 전국 84건에 대비 20% 높은 수치를 보이고 있는데, 각종 사건 사고로부터 안전한 도시를 조성하고 시민의 안전한 생활을 보장하기 위해 CCTV의 최적의 위치 선정 연구를 진행했다. 
